@@ -256,9 +256,14 @@
     height: 45px;
 }
 
-
-
-
+.container2{
+    position: absolute;
+    background: #64c469;
+    height: 1150px;
+    width: 800px;
+    top: 45px;
+    left: 1000px;
+}
 
 
 .right h1{
@@ -276,4 +281,117 @@
     top: 44px;
     padding: 30px;
     width: 200px;
+}
+.right h3{
+    position: absolute;
+    background: #36b9ca;
+    right: -400px;
+    top: 20px;
+    padding: 30px;
+    width: 148px;
+    color: rgb(97, 0, 0);
+}
+
+.right h4{
+    position: absolute;
+    background: #36b9ca;
+    right: -400px;
+    top: 70px;
+    padding: 12px;
+    width: 184px;
+    font-size: 18px;
+    color: rgb(97, 0, 0);
+}
+.right h5{
+    position: absolute;
+    background: #36b9ca;
+    right: -400px;
+    top: 102px;
+    padding: 12px;
+    width: 184px;
+    font-size: 18px;
+    color: rgb(97, 0, 0);
+    height: 45px;
+}
+.right p{
+    position: absolute;
+    background: #afbec0;
+    left: 808px;
+    top: 133px;
+    padding: 30px;
+    width: 667px;
+    font-size: 18px;
+    height: 20px;
+    font-family:cursive;
+}
+.right2 p{
+    position: absolute;
+    background: #afbec0;
+    left: 1068px;
+    top: 46px;
+    padding: 30px;
+    width: 407px;
+    font-size: 18px;
+    height: 27px;
+}
+
+.right3 p{
+    position: absolute;
+    background: #afbec0;
+    left: 1535px;
+    top: 183px;
+    padding: 10px;
+    width: 253px;
+    font-size: 18px;
+    height: 10px;
+}
+.right4 p{
+    position: absolute;
+    background: #afbec0;
+    left: 1743px;
+    top: 46px;
+    padding: 10px;
+    width: 45px;
+    font-size: 18px;
+    height: 121px;
+}
+
+.right4 h6{ 
+    position: absolute;
+    background: none;
+    font-size: 50px;
+    top: -18dvh;
+    left: 1688px;
+}
+
+.right5 p{ 
+    position: absolute;
+    background: #b47413;
+    left: 860px;
+    top: 213px;
+    padding: 10px;
+    width: 928px;
+    font-size: 18px;
+    height: 920px;
+}
+.right5 h1{ 
+    position: absolute;
+    background: #afbec0;
+    left: 808px;
+    top: 213px;
+    padding: 10px;
+    width: 32px;
+    font-size: 18px;
+    height: 926px;
+}
+.right5 h2{ 
+    position: absolute;
+    background: #273d12;
+    left: 912px;
+    top: 640px;
+    padding: 10px;
+    width: 825px;
+    font-size: 25px;
+    height: 490px;
+    color: #c5c1df;
 }
