@@ -1,0 +1,2 @@
+![](https://github.com/CamiloEstebanConchaTorres/practicaModeladoEnCaja/blob/ejercicio_7/storage/img/Evidencia_ejercicio_7.png)
+![](https://github.com/CamiloEstebanConchaTorres/practicaModeladoEnCaja/blob/ejercicio_7/storage/img/Evidencia2_ejercicio_7.png)
