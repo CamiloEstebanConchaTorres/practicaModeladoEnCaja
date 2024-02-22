@@ -1,5 +1,94 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+.container{
+    background: #6ac5f0;
+    display: flex;
+    flex-direction: column;
+    align-items:stretch;
+
+}
+
+.fila1{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.fila1 p{
+    display: block;
+    padding: 15px;
+    background: #ffffff;
+    color: #000000;
+    margin-right: 30px; 
+}
+
+.fila1 h1{
+    display: block;
+    background: #6ac5f0;
+    color: #000000;
+    margin-left: 30px; 
+}
+
+.fila2{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.fila2 p{
+    display: block;
+    padding: 15px;
+    background: #ffffff;
+    color: #000000;
+    margin-right: 30px; 
+}
+
+.fila2 h1{
+    display: block;
+    background: #6ac5f0;
+    color: #000000;
+    margin-left: 30px; 
+}
+
+.fila3{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.fila3 p{
+    display: block;
+    padding: 15px;
+    background: #ffffff;
+    color: #000000;
+    margin-right: 30px; 
+}
+
+.fila3 h1{
+    display: block;
+    background: #6ac5f0;
+    color: #000000;
+    margin-left: 30px; 
+}
+
+.fila4{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.fila4 p{
+    display: block;
+    padding: 15px;
+    background: #ffffff;
+    color: #000000;
+    margin-right: 30px; 
+}
+
+.fila4 h1{
+    display: block;
+    background: #6ac5f0;
+    color: #000000;
+    margin-left: 30px; 
 }
