@@ -1,5 +1,21 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+.container1{
+    display: flex;
+    flex-direction:column;
+    width: 70%;
+    margin-left: 15%;
 }
+
+.filas{
+    box-sizing: content-box;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.filas img{
+    padding: 15px;
+    border-radius: 30px;
+}
+
+
+
