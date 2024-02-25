@@ -2,7 +2,7 @@
     background: #6ac5f0;
     display: flex;
     flex-direction: column;
-    align-items:stretch;
+    width: 80vh;
 
 }
 
@@ -26,6 +26,7 @@
     background: #6ac5f0;
     color: #000000;
     margin-left: 30px; 
+    font-size: 30px;
 }
 
 .fila2{
@@ -48,6 +49,7 @@
     background: #6ac5f0;
     color: #000000;
     margin-left: 30px; 
+    font-size: 30px;
 }
 
 .fila3{
@@ -70,6 +72,7 @@
     background: #6ac5f0;
     color: #000000;
     margin-left: 30px; 
+    font-size: 30px;
 }
 
 .fila4{
@@ -83,7 +86,7 @@
     padding: 15px;
     background: #ffffff;
     color: #000000;
-    margin-right: 30px; 
+    margin-right: 30px;
 }
 
 .fila4 h1{
@@ -91,4 +94,5 @@
     background: #6ac5f0;
     color: #000000;
     margin-left: 30px; 
+    font-size: 30px;
 }
