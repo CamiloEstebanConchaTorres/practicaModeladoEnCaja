@@ -10,7 +10,7 @@
     justify-content:space-around;
     align-items: center;
     padding: 20px;
-    background: #168551;
+    background: #ffffff;
 }
 
 .medio {
@@ -24,35 +24,22 @@
     margin: 0;
     position: relative; 
     cursor: pointer;
+    color: #a0a0a0;
 }
 
-.medio p::after {
-    content: "";
-    display: block;
-    width: 0;
-    height: 2px;
-    background-color: #1f1d1d; 
-    position: absolute;
-    top: 18px;
-    bottom: 0;
-    left: 0;
-    transition: width 0.3s ease;
-}
 
-.medio p:hover::after {
-    width: 100%;
-}
 
 .derecha{
     display: flex;
     flex-direction: row;
-    gap: 50px;
+    gap: 15px;
 }
 
 .derecha a {
     display: block;
     padding: 20px;
-    background: #6e4b4b;
-    color: #1eb2df;
+    background: #8b8b8b;
+    color: #fafff8;
     margin-right: 5px; 
+    text-decoration: none;
 }
