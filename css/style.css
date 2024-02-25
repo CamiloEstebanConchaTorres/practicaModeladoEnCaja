@@ -15,6 +15,7 @@
 .filas img{
     padding: 15px;
     border-radius: 30px;
+    box-shadow: 0 0 15px rgba(180, 110, 110, 0.3);
 }
 
 
