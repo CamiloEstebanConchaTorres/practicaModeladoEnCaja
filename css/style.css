@@ -1,5 +1,5 @@
 .container{
-    background: #6ac5f0;
+    background: #dddddd;
     display: flex;
     flex-direction: column;
     width: 80vh;
@@ -95,4 +95,11 @@
     color: #000000;
     margin-left: 30px; 
     font-size: 30px;
+}
+
+.container p{
+    cursor: pointer;
+}
+.container h1{
+    background: #dddddd;
 }
