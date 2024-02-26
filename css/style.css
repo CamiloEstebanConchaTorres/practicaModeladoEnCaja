@@ -8,21 +8,28 @@
 
 main {
     display: flex;
-    flex-direction: row;
+    flex-direction:row;
+    height: 70vh;
+    width: 8vh;
+    margin-left: 280px;
+    margin-right: 250px;
+    margin-top: 55px;
+    width: 1115px;
 }
 
-article,
-nav,
-aside {
+.container1,
+.container2,
+.container3 {
     background: #fff;
     border-radius: 15px;
-    flex-grow: 1;
+    flex-grow: 2;
     margin: 0 1vh;
     padding: 0vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.4);
+
 }
 
 h1 {
@@ -34,15 +41,55 @@ h1 {
 
 p {
     background: #ffffff;
-    text-align: center;
 }
 
 
 button {
     background: #f0f0f0;
-    margin: 10vh 10vh;
-    border-radius: 15px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
 }
 
-    
+.container3 p{
+    margin-bottom: -60px;
+    display: flex;
+    justify-content: center;
+    padding-top: 0vh;
+}
+
+.container2 p{
+    margin-bottom: -45px;
+    display: flex;
+    justify-content: center;
+    padding-top: 0vh;
+}
+
+.container1 p{
+    margin-bottom: -50px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+}
+
+.container1 button{
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+
+.container2 button{
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+
+.container3 button{
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
 
