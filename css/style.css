@@ -1,0 +1,150 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10vh;
+}
+
+
+.container1{
+    border: 1px solid black;
+    height: 83vh;
+    width: 30%;
+    position: relative;
+}
+
+.titulo, .Dashboard{
+    border: 1px solid black;
+    padding-left: 1vh;
+    font-size: 10px;
+}
+
+.container1min{
+    width: 100%;
+    height: 80%; 
+    box-sizing:border-box;
+    overflow-y: scroll;
+}
+
+.parrafos{
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+    padding: 0px;
+    margin: 0;
+}
+
+.parrafos .left p{
+    border: 1px solid black;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.parrafos .right p{
+    border: 1px solid black;
+    margin: 0;
+    padding: 10px;
+    width: 271px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+.parrafomedio{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: 40px;
+   
+}
+
+.parrafomedio .left p{
+    border: 1px solid black;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.parrafomedio .right p{
+    border: 1px solid black;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    width: 249px;
+}
+
+.parrafomedio .left .box{
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    height: 158px;
+}
+
+
+.parrafomedio .right .right2{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.parrafomedio .right .right2 .box{
+    border: 1px solid black;
+    width: 54px;
+    box-sizing: border-box;
+}
+
+.parrafomedio .right .right2 .box2 p{
+    width: 217px;
+    box-sizing: border-box;
+}
+
+.parrafofinal{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.parrafofinal .left p{
+    border: 1px solid black;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.parrafofinal .right p{
+    border: 1px solid black;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.parrafofinal .left{
+    width: 69px;
+}
+
+.parrafofinal .right{
+    width: 271px;
+}
+
+.Footer{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: center;
+    width: 340px;
+}
+
+
+
+.container2{
+    border: 1px solid black;
+    height: 200px;
+    width: 50%;
+}
